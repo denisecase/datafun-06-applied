@@ -108,7 +108,7 @@ uvx pre-commit run --all-files
 # repeat if changes were made
 uvx pre-commit run --all-files
 
-# run the example module to verify the environment (.venv)
+# run the example module and verify the environment (.venv/)
 uv run python -m datafun.app_case
 
 # do chores
