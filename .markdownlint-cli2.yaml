@@ -7,6 +7,9 @@
 # dependency directories, virtual environments, caches, and build artifacts.
 # REQ: Markdown lint should check source documentation, not generated docs,
 # dependency trees, coverage output, or runtime artifacts.
+#
+# Run with:
+# npx markdownlint-cli2 --fix
 
 globs:
   - "**/*.md"
