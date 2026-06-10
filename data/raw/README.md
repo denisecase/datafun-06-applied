@@ -23,8 +23,11 @@ Once familiar with the data, it enables predicting
 fare/total/tip from distance, passengers, time, borough.
 
 - Source: <https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page>
-- File: <https://forum.starrocks.io/t/loading-and-querying-nyc-yellow-or-green-taxi-data-parquet-format-with-starrocks/188>
--
+- Files: <https://data.cityofnewyork.us/browse?Data-Collection_Data-Collection=TLC+Trip+Data&sortBy=relevance&page=1&pageSize=20>
+
+To use, click on a dataset,
+e.g. 2018 Yellow Taxi Trip Data,
+scroll down to attachments and save the file to your data/raw/ (may be in Excel format).
 
 ### C) California housing / housing prices
 
